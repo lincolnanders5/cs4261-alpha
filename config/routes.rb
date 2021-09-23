@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :locations
   resources :posts do
     get :images, on: :member
   end

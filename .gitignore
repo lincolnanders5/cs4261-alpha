@@ -25,6 +25,9 @@
 /tmp/storage/*
 !/tmp/storage/
 !/tmp/storage/.keep
+/db/shpfiles/*
+!/db/shpfiles/
+!/db/shpfiles/.keep
 
 .byebug_history
 
